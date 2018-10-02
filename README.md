@@ -41,7 +41,7 @@ The second line contains X integers separated by spaces, where each integer is t
 The ID’s, A, B, and all the ID’s on the second line, are distinct positive integers less than or equal to R3 − (R − 1)3.
 
 #### Input
-6 6 1 45 11
+6 6 1 45 11<br />
 15 16 17 19 26 27 52 53 58 65 74
 
 #### output
