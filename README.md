@@ -1,4 +1,6 @@
 # Astar-search-hexgrid
+My solution to the hexgrid search problem , it is not perfect and cannot solve all the cases
+
 0x67is a scout ant searching for food and discovers a beehive nearby. As it approaches the honeycomb,
 0x67can sense an area inside packed with dried honey that can be easily carried back to the nest and
 stored for winter. However, it must burrow through the honeycomb to reach the cell containing the
